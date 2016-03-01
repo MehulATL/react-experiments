@@ -1,0 +1,19 @@
+{
+  "name": "mehul.codes",
+  "version": "1.0.0",
+  "description": "It aint nothin to stunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mayho/mehul.codes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayho/mehul.codes/issues"
+  },
+  "homepage": "https://github.com/Mayho/mehul.codes"
+}
